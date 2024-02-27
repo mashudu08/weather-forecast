@@ -106,6 +106,7 @@ main{
 .weather-forecast-temperatures{
     font-size: 14px;
     display: flex;
+    color: #f65282;
 }
 
 .weather-forecast-icon{
